@@ -1,13 +1,13 @@
 {
 "companyName": "Mentol",
 "productName": "Shooting Combat Swat Desert Storm Vehicle Wars",
-"dataUrl": "Helicopter And Tank Battle Desert Storm Multiplayer.data.unityweb",
-"wasmCodeUrl": "Helicopter And Tank Battle Desert Storm Multiplayer.wasm.code.unityweb",
-"wasmFrameworkUrl": "Helicopter And Tank Battle Desert Storm Multiplayer.wasm.framework.unityweb",
+"dataUrl": "https://cdn.jsdelivr.net/gh/schoolflashx/6666664@main/Helicopter%20And%20Tank%20Battle%20Desert%20Storm%20Multiplayer.data.unityweb",
+"wasmCodeUrl": "https://cdn.jsdelivr.net/gh/schoolflashx/6666664@main/Helicopter%20And%20Tank%20Battle%20Desert%20Storm%20Multiplayer.wasm.code.unityweb",
+"wasmFrameworkUrl": "https://cdn.jsdelivr.net/gh/schoolflashx/6666664@main/Helicopter%20And%20Tank%20Battle%20Desert%20Storm%20Multiplayer.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
-"backgroundUrl": "Helicopter And Tank Battle Desert Storm Multiplayer.jpg",
+"backgroundUrl": "https://cdn.jsdelivr.net/gh/schoolflashx/6666664@main/Helicopter%20And%20Tank%20Battle%20Desert%20Storm%20Multiplayer.jpg",
 "splashScreenStyle": "Dark",
 "backgroundColor": "#000000",
 "cacheControl": {"default": "must-revalidate"}
